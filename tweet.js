@@ -22,10 +22,10 @@ var total=0;
 var totalSent=0;
 
 var T = new Twit({  // You need to setup your own twitter configuration here!
-  consumer_key:   'kn77pOKSigcogXMcPIeKwnAOy',
-  consumer_secret: 'HnCBrojfdSPBTIASgFMmuohMHuJf8YFFbCU59U35aCFapo8e7W',
-  access_token:    '821714904994422784-j5nbhwEjjDVujS9FgxJF1bDKCCAjEZu',
-  access_token_secret: '1Wi2GCjeruW3dSuWZkQkpA1B0XIYWfqD1H2gsXQJzWvyg'
+  consumer_key:   '...',
+  consumer_secret: '...',
+  access_token:    '...',
+  access_token_secret: '...'
 });
 
 
